@@ -1,2 +1,2 @@
 # lrskjr.github.io
-[link](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#links "github markdown cheatsheet")
+[link til github markdown cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#links "github markdown cheatsheet")
